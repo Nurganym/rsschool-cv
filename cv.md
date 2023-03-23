@@ -4,4 +4,4 @@
 
 ### +996777125654
 ### IT- Academy Frontend
-
+### JS, HTML, CSS
